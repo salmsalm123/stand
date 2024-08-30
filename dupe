@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet('https://raw.githubusercontent.com/salmsalm123/acdup/main/loader'))()
